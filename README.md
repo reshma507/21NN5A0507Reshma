@@ -33,9 +33,7 @@ Population Dataset: https://en.wikipedia.org/wiki/List_of_states_in_India_by_pas
 
 <img width="960" alt="image" src="https://github.com/vrushali92/India-Crop-Production-Data-Analysis/assets/28844399/f828e07b-a55e-4f17-9483-00edaa1b3430">
 
-5. Growth of Crop Produce and population over the years
 
-<img width="960" alt="image" src="https://github.com/vrushali92/India-Crop-Production-Data-Analysis/assets/28844399/426a477c-6df9-407b-8dc8-20056bea8f70">
 
 
 # Installation
@@ -52,6 +50,4 @@ https://www.tableau.com/en-gb/products/desktop/download
 
 1. Jupyter notebook: Run each cell step by step to understand the process.
 
-# Tableau links:
 
-https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/IndiaCropProduction_16888992946190/PopulationvsProductionGrowth
